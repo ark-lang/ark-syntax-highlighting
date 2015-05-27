@@ -77,6 +77,7 @@
 		<keyword>f128</keyword>
 		<keyword>str</keyword>
 		<keyword>void</keyword>
+		<keyword>rune</keyword>
     </context>
 
     <context id="self" style-ref="identifier">
