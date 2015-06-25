@@ -7,7 +7,7 @@ endif
 
 syn keyword arkKeywords if else for match
 syn keyword arkKeywords mut return break continue func
-syn keyword arkKeywords int float double bool uint rune 
+syn keyword arkKeywords int bool uint rune 
 syn keyword arkKeywords f32 f64 f128 i8 i16 i32 i64 i128 u8 u16 u32 u64 u128 usize
 syn keyword arkKeywords struct packed impl use trait
 
